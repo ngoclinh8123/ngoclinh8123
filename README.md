@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255cGVrY2YybG56OTZvcHV6djhiNzVrZnJyZWc2bTNmcGN2a3E5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4CacylzFaHjMM8/giphy.gif" width="200"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255cGVrY2YybG56OTZvcHV6djhiNzVrZnJyZWc2bTNmcGN2a3E5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4CacylzFaHjMM8/giphy.gif" width="200"/>
 </div>
-<div align="center">
+<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJtc3cyYmVjdDQxemxsNGsxN200N3gwc2Z0bXphcTk1ejgzdGQ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRJEK0k6SDqXk8YIAK/giphy-downsized-large.gif" width="200"/>
 </div>
 
