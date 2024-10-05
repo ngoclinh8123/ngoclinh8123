@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡Did yo know? Fortran (FORmula TRANslation) was the first coding language created by John Backus and his team at IBM in the 1950s.
+⚡Cows have best friends! 🐄 Studies have shown that cows form close bonds with specific other cows, and when they're separated, they actually get stressed. So, next time you see a cow, just know it's probably thinking about its BFF!
 
 <div id="header" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxMmVrOXk5bGQxNWJuYnhlc3d5ZzR5eWVlaXd2NmF1Y2V5MHN3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="100"/> -->
