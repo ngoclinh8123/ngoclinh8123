@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxMmVrOXk5bGQxNWJuYnhlc3d5ZzR5eWVlaXd2NmF1Y2V5MHN3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="100"/> -->
-  <img src="https://i.pinimg.com/originals/5e/80/dc/5e80dcae3d23e0b20c13145341ef81de.gif" width="600"/>
+  <img src="https://i.pinimg.com/originals/e5/21/25/e521256bba4e51f9212557b7beb09f80.gif" width="600"/>
 </div>
