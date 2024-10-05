@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡Cows have best friends! 🐄 Studies have shown that cows form close bonds with specific other cows, and when they're separated, they actually get stressed. So, next time you see a cow, just know it's probably thinking about its BFF!
+⚡Did u know!!! The @ symbol, now vital for email, was originally just a random key with no real use. In fact, it used to be shorthand for “at the rate of” on typewriters! It only became famous when a programmer needed a symbol for email addresses and thought, "Hey, this @ thing isn't doing much... let's give it a purpose!"
 
 <div id="header" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxMmVrOXk5bGQxNWJuYnhlc3d5ZzR5eWVlaXd2NmF1Y2V5MHN3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="100"/> -->
