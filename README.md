@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxMmVrOXk5bGQxNWJuYnhlc3d5ZzR5eWVlaXd2NmF1Y2V5MHN3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="100"/> -->
-  <img src="https://i.pinimg.com/originals/6f/e8/47/6fe847eafe9478105fe2659d235827ea.gif" width="400"/>
-  <img src="https://i.pinimg.com/originals/6f/e8/47/6fe847eafe9478105fe2659d235827ea.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="900"/>
+<!--   <img src="https://i.pinimg.com/originals/01/6d/9b/016d9bdcd53de891c295d06b399a2f3c.gif" width="900"/> -->
 <!--   <img src="https://i.pinimg.com/originals/36/11/3e/36113e3f191c49d87eadb6578216045b.gif" width="900"/> -->
 </div>
