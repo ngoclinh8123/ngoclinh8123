@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡Did u know!!! The @ symbol, now vital for email, was originally just a random key with no real use. In fact, it used to be shorthand for “at the rate of” on typewriters! It only became famous when a programmer needed a symbol for email addresses and thought, "Hey, this @ thing isn't doing much... let's give it a purpose!"
-
 <div id="header" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxMmVrOXk5bGQxNWJuYnhlc3d5ZzR5eWVlaXd2NmF1Y2V5MHN3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="100"/> -->
   <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="900"/>
